@@ -616,7 +616,7 @@ class Snowflake {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -632,19 +632,19 @@ class Snowflake {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['mountain'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
       }
     }
@@ -656,7 +656,7 @@ class Snowflake {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -672,15 +672,15 @@ class Snowflake {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
       }
     }
@@ -692,7 +692,7 @@ class Snowflake {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['disaster'],
       web: []
     };
     
@@ -708,19 +708,19 @@ class Snowflake {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
       }
     }
@@ -732,7 +732,7 @@ class Snowflake {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['mountain'],
       web: []
     };
     
@@ -748,19 +748,19 @@ class Snowflake {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
       }
     }
@@ -772,7 +772,7 @@ class Snowflake {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['mouth'],
       web: []
     };
     
@@ -788,19 +788,19 @@ class Snowflake {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['big'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['fire'];
           break;
       }
     }
@@ -812,7 +812,7 @@ class Snowflake {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['twenty'],
       web: []
     };
     
@@ -828,19 +828,19 @@ class Snowflake {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['people'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['ten'];
           break;
       }
     }
@@ -852,7 +852,7 @@ class Snowflake {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -868,19 +868,19 @@ class Snowflake {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['ten'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['fire'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['earth'];
           break;
       }
     }
@@ -892,7 +892,7 @@ class Snowflake {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['dagger-axe'],
       web: []
     };
     
@@ -908,19 +908,19 @@ class Snowflake {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['female'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['water'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
       }
     }
@@ -932,7 +932,7 @@ class Snowflake {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -948,19 +948,19 @@ class Snowflake {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['moon'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
       }
     }
@@ -972,7 +972,7 @@ class Snowflake {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['dagger-axe'],
       web: []
     };
     
@@ -988,19 +988,19 @@ class Snowflake {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['moon'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['people'];
           break;
       }
     }
@@ -1012,7 +1012,7 @@ class Snowflake {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['twenty'],
       web: []
     };
     
@@ -1028,11 +1028,11 @@ class Snowflake {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['gold'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['one'];
           break;
       }
     }
@@ -1044,7 +1044,7 @@ class Snowflake {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['mouth'],
       web: []
     };
     
@@ -1060,19 +1060,19 @@ class Snowflake {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['disaster'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['moon'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['people'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['middle'];
           break;
       }
     }
@@ -1084,7 +1084,7 @@ class Snowflake {
     let _letters = [];
     let result = {
       word,
-      wide: cangjie[''],
+      wide: cangjie['predict'],
       web: []
     };
     
@@ -1100,19 +1100,19 @@ class Snowflake {
     if (n.length >= 2) {
       switch(n[1]) {
         case 'value':
-          result.wide = cangjie[''];
+          result.wide = cangjie['ten'];
           break;
 
         case 'function':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bow'];
           break;
 
         case 'behavior':
-          result.wide = cangjie[''];
+          result.wide = cangjie['bamboo'];
           break;
 
         case 'result':
-          result.wide = cangjie[''];
+          result.wide = cangjie['predict'];
           break;
       }
     }
